@@ -1,0 +1,29 @@
+font-awesome-
+<i class="fab fa-apple"></i>
+<i class="fa fa-android" aria-hidden="true"></i>
+<i class="fa fa-windows" aria-hidden="true"></i>
+
+
+
+color-
+yellow:#fcdb00;
+h1-black:#010101;
+h3-color:#313841;
+p1:#898989;
+p2:#555555;
+
+
+h1
+md-32px sm-28px col-25px
+
+padding lg margin-top: 100px;
+			margin-bottom: 120px;
+
+		md margin-top: 80px;
+			margin-bottom: 100px;
+
+		sm margin-top: 60px;
+			margin-bottom: 80px;
+
+		col margin-top: 50px;
+			margin-bottom: 70px
